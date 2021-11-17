@@ -1,0 +1,1 @@
+# For my work on the Manning live project "Getting started with Git"
